@@ -43,7 +43,7 @@ optional arguments:
 
 ## Caveats
 
-Is only guaranteed to work on this [https://sk.wikipedia.org/wiki/Zoznam_slovenských_obcí_a_vojenských_obvodov](Wiki page). I haven't tried any other.
+Is only guaranteed to work on this [Wiki page](https://sk.wikipedia.org/wiki/Zoznam_slovenských_obcí_a_vojenských_obvodov). I haven't tried any other.
 
 There's no real input validation either. Use with care.
 
