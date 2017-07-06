@@ -1,5 +1,5 @@
 # wikitabletocsv
-Convert tables on wikipedia pages to CSV file
+Convert tables on wikipedia pages to a CSV file.
 
 
 ## Other solutions
@@ -39,4 +39,11 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+
+
+## Caveats
+
+Is only guaranteed to work on this [https://sk.wikipedia.org/wiki/Zoznam_slovenských_obcí_a_vojenských_obvodov](Wiki page). I haven't tried any other.
+
+There's no real input validation either. Use with care.
 
