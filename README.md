@@ -14,8 +14,8 @@ Therefore, I'm doing my own!
 
 ## Requirements
 
- * python2.7 (and probably other versions too)
- * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/): HTML traversing and text extraction
+ * python2.7 (probably works with other versions too)
+ * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) (used for HTML traversing and text extraction)
 
 
 ## Installation
