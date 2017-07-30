@@ -29,17 +29,19 @@ $ pip install -r requirements.txt
 
 ```
 $ ./tabletocsv.py --help
-usage: tabletocsv.py [-h] url [dest]
+usage: tabletocsv.py [-h] [--class-name CLASS_NAME] url [dest]
 
 positional arguments:
-  url         Source of data. Expects to contain one or more <table
-              class="wikitable"> elements.
+  url         Source of data. Expects to contain one or more <table> elements
+              with specified class name.
   dest        The file to write output to. Omit or use '-' to write to stdout.
 
 optional arguments:
   -h, --help  show this help message and exit
+  --class-name CLASS_NAME
+              CSS class name for the tables to search for. (Without dot, just
+              name.) (default: wikitable)
 ```
-
 
 ## Caveats
 
